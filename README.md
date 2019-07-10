@@ -7,10 +7,9 @@ Hello! I am Nuvia Nishad. I am a student in the Telling Stories with Data class 
 I am fluent in 3 languages and enjoy different cultural experiences. When I am not studying or working, I can be found exploring different parts of the city, country or the world. 
 
 # What I hope to learn
-I hope to learn how to simplify a lot of data and to effectively represent them.  
+I hope to learn to simplify a lot of data and to effectively represent them.  
 
 # Data Visualization Critique #1
-
 https://datawrapper.dwcdn.net/rmqtI/2/
 
 
