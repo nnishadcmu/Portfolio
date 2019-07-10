@@ -9,3 +9,5 @@ I am fluent in 3 languages and enjoy different cultural experiences. When I am n
 # What I hope to learn
 I hope to learn how to simplify a lot of data and to effectively represent them.  
 
+# Data Visualization Critique #1
+//datawrapper.dwcdn.net/UB7OB/1/  
