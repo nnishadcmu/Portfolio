@@ -10,4 +10,6 @@ I am fluent in 3 languages and enjoy different cultural experiences. When I am n
 I hope to learn how to simplify a lot of data and to effectively represent them.  
 
 # Data Visualization Critique #1
-//datawrapper.dwcdn.net/UB7OB/1/  
+
+<iframe title="Average number of likes per Facebook post 2016 (Copy) (Copy)" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/rmqtI/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="312"></iframe>
+
