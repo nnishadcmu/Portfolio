@@ -23,4 +23,4 @@ I hope to learn to simplify a lot of data and learn how to effectively represent
   
 # Data Visualization For Inclusion in Report
 
-<script id="infogram_0_140b7b28-c161-4387-af93-23683decaba4" title="" src="https://e.infogram.com/js/dist/embed.js?Knl" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<iframe src="https://e.infogram.com/140b7b28-c161-4387-af93-23683decaba4?src=embed" title="" width="550" height="801" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
