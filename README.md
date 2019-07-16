@@ -23,4 +23,4 @@ I hope to learn to simplify a lot of data and learn how to effectively represent
   
 # Data Visualization For Inclusion in Report
 
-[infogram id="140b7b28-c161-4387-af93-23683decaba4" prefix="THF" format="interactive" title="Data visualization for inclusion in the report"]
+<amp-iframe width="550" height="741" layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups" resizable allowfullscreen frameborder="0" src="https://e.infogram.com/140b7b28-c161-4387-af93-23683decaba4?src=embed"><div style="visibility: hidden" overflow tabindex=0 role=button aria-label="Loading..." placeholder>Loading...</div></amp-iframe>
