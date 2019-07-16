@@ -23,4 +23,4 @@ I hope to learn to simplify a lot of data and learn how to effectively represent
   
 # Data Visualization For Inclusion in Report
 
-[infogram id="140b7b28-c161-4387-af93-23683decaba4" prefix="THF" format="interactive" title="Data visualization for inclusion in the report"] 
+[infogram id="140b7b28-c161-4387-af93-23683decaba4" prefix="THF" format="interactive" title="Data visualization for inclusion in the report"]
