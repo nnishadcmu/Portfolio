@@ -49,5 +49,5 @@ For my review, I chose the bar chart titled “Gallons of paint sold in 2018, by
 
 # Assignment 3
 
-[Link to Assignment 3](/Assignment 3.html) 
+[Link to Assignment 3](/Assignment 3)
 
