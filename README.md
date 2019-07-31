@@ -47,4 +47,6 @@ For my review, I chose the bar chart titled “Gallons of paint sold in 2018, by
 
 ## Final Project
 
-[Link to Final Project Overview](/FinalProject.md)
+[Link to Final Project Part 1](/FinalProject.md)
+
+[Link to Final Project Part 2](/Final Project Part 2.md)
