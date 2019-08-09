@@ -5,7 +5,7 @@
 The target audience for this visualization are the readers of the New York Times. The approach of this visualization is to make the readers aware of the poor conditions in which children are detained at the southern borders of the U.S. The data visualizations are created to go with the news regarding the poor conditions at the Rio Grande Valley facilities. The visualizations point out the large number of children held at the facility for a prolonged times and with little to no access to amenities required by the Transport, Escort, Detention and Search Standards (TEDS). The report also points out the increase in number of children held at these facilities which is an indication that measures have to be taken to meet the increasing demand. I chose colors that are closer to the red color family to draw attention to the noncompliance of the TEDS. I chose a lighter shade to represent lesser polulation and a darker shade to represent more. I also used grey for areas I did not want to draw too much attention to. 
 
 
-## Data Visualization For Inclusion in Report
+## Data Visualization For Inclusion in Report 
 
 <script id="infogram_0_456e47ca-ce94-42e3-8981-90b9e9b8f1cf" title="Report Classic" src="https://e.infogram.com/js/dist/embed.js?fvG" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/456e47ca-ce94-42e3-8981-90b9e9b8f1cf" style="color:#989898!important;text-decoration:none!important;" target="_blank">Report Classic</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
