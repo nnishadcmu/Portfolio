@@ -11,11 +11,7 @@ As a Recruiter, I enjoy learning about the organizational plans and finding cand
 # What I hope to learn
 I hope to learn to simplify data and learn how to effectively represent them. I hope to learn effective ways to communicate through data visualizations.  
 
-# Assignment 1
-
-## Data Visualization Critique #1
-
-<iframe title="Average number of likes per Facebook post 2016" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/rmqtI/4/" scrolling="no" frameborder="0" style="border: none;" width="600" height="286"></iframe>
+# Click on the links below to check out my data visualizations that I have created
 
 # Assignment 2
 
@@ -42,6 +38,8 @@ For my review, I chose the bar chart titled “Gallons of paint sold in 2018, by
 # Assignment 3
 
 [Link to Assignment 1](/Assignment 1.md)
+
+[Link to Assignment 2](/Assignment 2.md)
 
 [Link to Assignment 3](/Assignment 3.md)
 
