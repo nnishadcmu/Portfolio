@@ -1,17 +1,15 @@
 # Portfolio
-This is my portfolio for Telling Stories with Data class at CMU. I will be posting all of my data visualizations assignments here for the semester.
+This is my portfolio for Telling Stories with Data class at Carnegie Mellon University. I will be posting all of my data visualizations assignments here for the semester.
 
 # About Me
 ![nuvia](https://user-images.githubusercontent.com/52507879/61142012-c5174200-a49c-11e9-9d71-fa09a8a0469f.jpg)
 
 Hello! I am Nuvia Nishad. I am a student in the Telling Stories with Data class at Carnegie Mellon University. I am a first year Master of Public Management student at the Heinz College and a full time HR Recruiter for the University. I provide full life-cycle recruitment services for the University which includes helping hiring managers to develop recruitment strategies and identifying the best talent for the job. 
 
-As a Recruiter, I enjoy learning about the organizational plans and finding candidates that fit with the goals of the university. I am personally passionate about process and performance improvements that ensure effectiveness and increase overall organizational performances. I want to continue to engage in such organizational development opportunities.
-
-I am fluent in 3 languages and enjoy different cultural experiences. When I am not studying or working, I can be found exploring different parts of the city, country or the world. 
+As a Recruiter, I enjoy learning about the organizational plans and finding candidates that fit with the goals of the university. I am personally passionate about process and performance improvements that ensure effectiveness and increase overall organizational performances. 
 
 # What I hope to learn
-I hope to learn to simplify a lot of data and learn how to effectively represent them.  
+I hope to learn to simplify data and learn how to effectively represent them. I hope to learn effective ways to communicate through data visualizations.  
 
 # Assignment 1
 
@@ -42,6 +40,8 @@ The target audience for this visualization are the management at the Homeland Se
 For my review, I chose the bar chart titled “Gallons of paint sold in 2018, by channel and customer type” from the news article. The purpose of this article is to make readers aware of how PPG has fallen behind in sales compared to its competitor Sherwin-Williams. The chart used in this article points out that majority of the sales last year happened through manufacturer –owned stores. Since PPG has fewer stores than Sherwin – Williams, they did not make as much sales as their competitor. However, the bar chart also separates professional customers and do it yourself customers, which in my opinion is not necessary for the purpose of this article. It adds unnecessary information to the chart and takes away from the main purpose that is to show that PPG could benefit from having more stores. 
 
 # Assignment 3
+
+[Link to Assignment 1](/Assignment 1.md)
 
 [Link to Assignment 3](/Assignment 3.md)
 
