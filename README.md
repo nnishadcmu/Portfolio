@@ -35,7 +35,7 @@ The target audience for this visualization are the management at the Homeland Se
 
 For my review, I chose the bar chart titled “Gallons of paint sold in 2018, by channel and customer type” from the news article. The purpose of this article is to make readers aware of how PPG has fallen behind in sales compared to its competitor Sherwin-Williams. The chart used in this article points out that majority of the sales last year happened through manufacturer –owned stores. Since PPG has fewer stores than Sherwin – Williams, they did not make as much sales as their competitor. However, the bar chart also separates professional customers and do it yourself customers, which in my opinion is not necessary for the purpose of this article. It adds unnecessary information to the chart and takes away from the main purpose that is to show that PPG could benefit from having more stores. 
 
-# Assignment 3
+# Assignments
 
 [Link to Assignment 1](/Assignment 1.md)
 
