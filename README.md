@@ -6,7 +6,7 @@ Hello! I am Nuvia Nishad. I am a first year Master of Public Management student 
 As a Recruiter, I enjoy learning about the organizational plans and finding candidates that fit with the goals of the university. I am personally passionate about process and performance improvements that ensure effectiveness and increase overall organizational performances. 
 
 # Portfolio
-This is my portfolio for the Telling Stories with Data class at Carnegie Mellon University. I will be posting all of my data visualization assignments and critiques throughout the semester. I will also be posting all parts of the final project where I will be telling a story using data visualization methods that I have learned throughout the semester.
+This is my portfolio for the Telling Stories with Data class at Carnegie Mellon University. I will be posting all of my data visualization assignments and critiques here throughout the semester. I will also be posting all of the components involved with the creation of the final project where I will be telling a story using data visualization methods learned in this class.
 
 # What I hope to learn
 I hope to learn to simplify data and learn how to effectively represent them. I hope to learn effective ways to communicate through data visualizations.  
