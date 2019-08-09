@@ -1,15 +1,15 @@
 # About Me
 ![nuvia](https://user-images.githubusercontent.com/52507879/61142012-c5174200-a49c-11e9-9d71-fa09a8a0469f.jpg)
 
-Hello! I am Nuvia Nishad. I am a first year Master of Public Management student at the Heinz College and a full time HR Recruiter for the University. I provide full life-cycle recruitment services for the University which includes helping hiring managers to develop recruitment strategies and identifying the best talent for the job. 
+Hello! I am Nuvia Nishad. I am a first year Master of Public Management student at the Heinz College and a full time HR Recruiter for Carnegie Mellon University. My role involves working with hiring managers to develop recruitment strategies and identifying the best talent for job openings across the university. 
 
 As a Recruiter, I enjoy learning about the organizational plans and finding candidates that fit with the goals of the university. I am personally passionate about process and performance improvements that ensure effectiveness and increase overall organizational performances. 
 
 # Portfolio
-This is my portfolio for the Telling Stories with Data class at Carnegie Mellon University. I will be posting all of my data visualization assignments and critiques here throughout the semester. I will also be posting all of the components involved with the creation of the final project where I will be telling a story using data visualization methods learned in this class.
+This is my portfolio for the Telling Stories with Data class at Carnegie Mellon University. I will be posting all of my data visualization assignments and critiques here throughout the semester. I will also be posting all of the components involved with the creation of the final project where I will be telling a story using data visualization methods learned in the class.
 
 # What I hope to learn
-I hope to learn to simplify data and learn how to effectively represent them. I hope to learn effective ways to communicate through data visualizations.  
+I hope to learn to simplify data, learn how to effectively represent and communicate through data visualizations.  
 
 # Check out my data visualizations below
 
